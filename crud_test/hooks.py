@@ -5,6 +5,7 @@ app_description = "This will test all the crud functionalities from the api"
 app_email = "saidmbugua@gmail.com"
 app_license = "mit"
 
+
 # Apps
 # ------------------
 
